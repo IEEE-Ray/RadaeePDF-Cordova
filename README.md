@@ -139,7 +139,7 @@ For more examples, check demo/js/index.js
 
 RadaeePDF library version included:
 - Android: v3.55 - 03/May/2021
-- iOS: v3.73
+- iOS: v4.5
 
 Original development: 
 - Based on the original Xamarin module from GEAR.it.
