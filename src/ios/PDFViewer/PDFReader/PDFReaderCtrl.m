@@ -28,7 +28,7 @@
 #import "PDFThumbView.h"
 #import "SignatureViewController.h"
 #import "RDBookmarkViewController.h"
-#import "../PDFLayout/RDVFinder.h"
+#import "RDVFinder.h"
 
 @interface PDFReaderCtrl () <UITextFieldDelegate, PDFLayoutDelegate, PDFThumbViewDelegate, SearchResultViewControllerDelegate, RDPopupTextViewControllerDelegate, RDTreeViewControllerDelegate, SignatureDelegate, BookmarkTableViewDelegate>
 @end

@@ -10,7 +10,7 @@
 #import <UIKit/UIKit.h>
 #import "UIColorBtn.h"
 #import "UIIconView.h"
-#import "../UILShadowView.h"
+#import "UILShadowView.h"
 @class RDPDFAnnot;
 @interface DlgAnnotPropIcon : UILShadowView
 {

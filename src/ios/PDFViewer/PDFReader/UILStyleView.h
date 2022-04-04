@@ -8,8 +8,8 @@
 
 #pragma once
 #import <UIKit/UIKit.h>
-#import "../UILElement.h"
-#import "../PDFView/PDFPopupCtrl.h"
+#import "UILElement.h"
+#import "PDFPopupCtrl.h"
 
 typedef void(^func_lstyle)(const CGFloat *, int);
 @interface UILStyleView : UIView

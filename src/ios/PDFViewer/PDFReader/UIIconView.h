@@ -6,7 +6,7 @@
 //  Copyright © 2020 Radaee. All rights reserved.
 //
 #import <UIKit/UIKit.h>
-#import "../UILShadowView.h"
+#import "UILShadowView.h"
 typedef void(^func_icon)(int);
 @class PDFPopupCtrl;
 @class RDPDFAnnot;

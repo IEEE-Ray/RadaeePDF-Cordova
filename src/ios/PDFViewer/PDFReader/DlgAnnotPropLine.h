@@ -11,7 +11,7 @@
 #import "UILStyleView.h"
 #import "UILHeadView.h"
 #import "UIColorBtn.h"
-#import "../UILShadowView.h"
+#import "UILShadowView.h"
 @class RDPDFAnnot;
 @interface DlgAnnotPropLine : UILShadowView
 {

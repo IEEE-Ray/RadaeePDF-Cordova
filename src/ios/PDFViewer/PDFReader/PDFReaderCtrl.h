@@ -8,11 +8,11 @@
 
 #pragma once
 #import <UIKit/UIKit.h>
-#import "../PDFView/RDPDFView.h"
-#import "../RDToolbar.h"
+#import "RDPDFView.h"
+#import "RDToolbar.h"
 #import "SearchResultViewController.h"
 #import "RDPopupTextViewController.h"
-#import "../RDTreeTableViewController/RDTreeViewController.h"
+#import "RDTreeViewController.h"
 //#import "PDFIOS.h"
 
 @class PDFLayoutView;

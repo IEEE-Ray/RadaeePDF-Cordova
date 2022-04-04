@@ -7,7 +7,7 @@
 //
 
 #import "UIColorBtn.h"
-#import "../UILShadowView.h"
+#import "UILShadowView.h"
 @class RDPDFAnnot;
 @interface DlgAnnotPropMarkup : UILShadowView
 {
